@@ -13,7 +13,7 @@
 ## Overview
 Gemma 2 is Google LLM Model
 
-![](Gemini2-image.jpeg)
+![](gemma2-image.jpeg)
 
 ### Gemma Models:
 https://ai.google.dev/gemma
