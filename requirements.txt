@@ -1,0 +1,5 @@
+bitsandbytes==0.43.1
+accelerate==0.29.3
+transformers==4.40.0
+huggingface_hub
+ipywidgets
